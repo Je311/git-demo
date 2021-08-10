@@ -1,1 +1,2 @@
-my test git command hello world
+<<<<<<< HEAD
+my test git command hello
